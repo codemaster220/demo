@@ -1,4 +1,4 @@
 {
-  "states": ['CA', 'TX'],
-  "city": ['San Jose', 'Fremont', 'Austin']
+  "states": ["CA", "TX"],
+  "city": ["San Jose", "Fremont", "Austin"]
 }
